@@ -81,7 +81,6 @@ img{
 
   .container img {
     margin-bottom: 12px;
-    
   }
 }
 @media (max-width: 1024px) {
@@ -90,7 +89,7 @@ img{
     align-items: center;
     gap: 50px;
     margin: 35px auto;
-    width: 80%;
+    width: 75%;
   }
 
   .text{
@@ -99,7 +98,5 @@ img{
 
   .container img {
     margin-bottom: 12px;
-    width: 25%;
-    height: 200px;
   }
 }
